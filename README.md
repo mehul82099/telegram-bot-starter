@@ -160,3 +160,5 @@ User types /pay 500
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:2CA5E0&height=120&section=footer" width="100%"/>
 
 </div>
+
+<!-- Updated: July 2026 -->
